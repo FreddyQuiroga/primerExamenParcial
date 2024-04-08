@@ -5,7 +5,7 @@ const pizzaSchema = new mongoose.Schema({
   descripcion: { type: String, required: true },
   fecha: { type: String, required: true },
   precio: { type: Number, required: true },
-});
+},{ versionKey: false });
 
 const Pizza = mongoose.model('dbPizzeria', pizzaSchema, 'Pizza');
 
