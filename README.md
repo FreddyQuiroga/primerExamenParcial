@@ -4,10 +4,9 @@
 
 En este examen, hemos trabajado en la creación de una aplicación relacionada con el tema de las pizzas, utilizando tecnologías como MongoDB y Express para implementar un sistema de base de datos y una API RESTful completa.
 
-### Estudiantes
+### Estudiante
 
 - Freddy Andres Quiroga Balderrama
-- Alexander Rodríguez Corcos
 
 ### Detalles del Proyecto
 
