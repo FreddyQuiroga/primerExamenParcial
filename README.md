@@ -1,6 +1,6 @@
-## Primer Examen - Taller de Aplicaciones de Internet
+## Segundo Examen - Taller de Aplicaciones de Internet
 
-¡Bienvenido al repositorio del primer examen de la materia "Taller de Aplicaciones de Internet" de la Universidad Adventista de Bolivia!
+¡Bienvenido al repositorio del segundo examen de la materia "Taller de Aplicaciones de Internet" de la Universidad Adventista de Bolivia!
 
 En este examen, hemos trabajado en la creación de una aplicación relacionada con el tema de las pizzas, utilizando tecnologías como MongoDB y Express para implementar un sistema de base de datos y una API RESTful completa.
 
